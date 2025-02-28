@@ -1,5 +1,5 @@
 Weather App
-Description
+
 This is a simple weather application built with React that fetches and displays weather information using the OpenWeatherMap API. The app allows users to search for a city and get details such as temperature, humidity, wind speed, and coordinates.
 Features
 
